@@ -7,6 +7,15 @@ https://www.youtube.com/@coding_ez_snese
 
 코딩센세는 앱 개발을 위한 무료 교육 자료를 제공하는 오픈 소스 입니다.
 
+## 🌟 후원하기
+
+코딩센세는 비영리로 운영되며, 모든 자료는 무료로 제공됩니다. 프로젝트 지속을 위한 후원은 다음 플랫폼을 통해 가능합니다:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/blueberry95)
+
+여러분의 후원은 더 나은 교육 자료 제작에 사용됩니다.
+
+
 ## 📚 제공하는 교육 자료
 
 ### Flutter 기초
@@ -89,11 +98,3 @@ fvm flutter run
 4. 번역 작업
 
 기여하시려면 Pull Request를 보내주세요.
-
-## 🌟 후원하기
-
-코딩센세는 비영리로 운영되며, 모든 자료는 무료로 제공됩니다. 프로젝트 지속을 위한 후원은 다음 플랫폼을 통해 가능합니다:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/blueberry95)
-
-여러분의 후원은 더 나은 교육 자료 제작에 사용됩니다.
