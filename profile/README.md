@@ -69,6 +69,7 @@ fvm flutter pub get
 
 # 개발 모드로 실행
 fvm flutter run
+```
 
 ## 📝 라이센스
 
